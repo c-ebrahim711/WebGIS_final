@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Importance of Trees",
+    "section": "",
+    "text": "What can Trees Do for People?\n\nTrees provide numerous benefits to people, including:\n\nImproving Air Quality – Trees absorb pollutants (like CO₂, ozone, and particulate matter) and release oxygen.\nReducing Urban Heat – They provide shade and cool the air through evapotranspiration, lowering energy costs.\nEnhancing Mental Health – Exposure to trees reduces stress and improves overall well-being.\nBoosting Property Values – Homes near trees often have higher market values.\nReducing Flooding – Tree roots absorb rainwater, decreasing runoff and erosion.\nSupporting Wildlife – Trees provide habitats for birds, insects, and other urban wildlife.\nEncouraging Physical Activity – Green spaces promote walking, jogging, and outdoor recreation.\n\n\n\n\nHow Is Income Related to Trees in NYC?\n\nIn New York City, tree distribution is often linked to income levels:\n\nWealthier Neighborhoods Have More Trees – Areas like the Upper East Side and Park Slope have higher tree canopy coverage compared to lower-income areas.\nEnvironmental Inequality – Lower-income neighborhoods (e.g., parts of the Bronx and Brooklyn) tend to have fewer trees, leading to higher heat island effects and poorer air quality.\nCity Initiatives – NYC’s MillionTreesNYC program (2007-2015) aimed to increase tree equity, but disparities remain.\nHealth & Economic Impacts – Less tree cover in low-income areas can worsen health outcomes (e.g., asthma rates) and reduce property values."
+  },
+  {
+    "objectID": "index.html#what-can-trees-do-for-people",
+    "href": "index.html#what-can-trees-do-for-people",
+    "title": "The Importance of Trees",
+    "section": "",
+    "text": "Improving Air Quality – Trees absorb pollutants (like CO₂, ozone, and particulate matter) and release oxygen.\nReducing Urban Heat – They provide shade and cool the air through evapotranspiration, lowering energy costs.\nEnhancing Mental Health – Exposure to trees reduces stress and improves overall well-being.\nBoosting Property Values – Homes near trees often have higher market values.\nReducing Flooding – Tree roots absorb rainwater, decreasing runoff and erosion.\nSupporting Wildlife – Trees provide habitats for birds, insects, and other urban wildlife.\nEncouraging Physical Activity – Green spaces promote walking, jogging, and outdoor recreation."
+  },
+  {
+    "objectID": "tree_map.html",
+    "href": "tree_map.html",
+    "title": "Mapping Street Trees",
+    "section": "",
+    "text": "Street Trees in NYC:\n\nBased on data from the NYC Parks Department’s 2016 Street Tree Census and the 2020 U.S. Census Bureau Income Data\n\n\nThis map shows the density of street trees in NYC, and the poorest census tracts are highlighted in blue.\nThe map can also be accessed here"
+  },
+  {
+    "objectID": "get_involved.html",
+    "href": "get_involved.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "MillionTreesNYC (NYC Parks + NYRP)\nVolunteer to plant & care for trees in underserved neighborhoods\nTrees New York\nFree Citizen Pruner Certification courses to legally care for street trees.\nBronx River Alliance\nHelps restore green spaces along the Bronx River."
+  },
+  {
+    "objectID": "get_involved.html#every-tree-planted-is-a-step-toward-climate-justice.",
+    "href": "get_involved.html#every-tree-planted-is-a-step-toward-climate-justice.",
+    "title": "Get Involved",
+    "section": "Every tree planted is a step toward climate justice.",
+    "text": "Every tree planted is a step toward climate justice."
+  }
+]
